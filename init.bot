@@ -1,0 +1,16 @@
+config:
+	token:your_token;
+	markup:html;
+end;
+text:
+	percent:80;
+	messages:messages.ini;
+	default:Sorry I dont know whay you say (;
+	show_error:false;
+end;
+voice:
+	percent:80;
+	messages:None;
+	default:Sorry I dont know whay you say (;
+	show_error:true;
+end;
